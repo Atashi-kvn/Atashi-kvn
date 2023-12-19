@@ -1,8 +1,16 @@
 # 💫 Who am I?
-I'm  full-stack software engineering student, Currently working on an eCommerce project.<br> 
+I'm a passionate and results-driven Fullstack Software Engineering student, currently honing my skills and knowledge in the dynamic world of web and android app development. I thrive on challenges and enjoy turning ideas into reality through the power of code.
+
+### 🌱 Currently Learning
+
+I'm currently diving deeper into microservices architecture and exploring best practices in DevOps to enhance my fullstack capabilities.<br>
+
+## 🤝 Let's Collaborate!
+
+I'm always eager to collaborate on interesting projects, learn from fellow developers, and contribute to open-source initiatives. If you're working on something cool or looking for a teammate, feel free to reach out!
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/engineer-kelvin-atandi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Atandi5050) 
 
 # 💻 Tech Stack:
@@ -15,7 +23,10 @@ I'm  full-stack software engineering student, Currently working on an eCommerce 
 ---
 [![](https://visitcount.itsvg.in/api?id=Atashi-kvn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 🚧 Fun Fact
+  My code compiles with the help of coffee. The ratio of lines of code to cups of coffee is a well-balanced equation.
+
+  ## 💰 Mind buying me ☕coffee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tobbychem@gmail.com) 
 
   
